@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 # Do not remove or rename entries in this file, only add new ones
 # See https://github.com/flutter/flutter/issues/128635 for more context.
 
+=======
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 # Miscellaneous
 *.class
 *.lock
 *.log
 *.pyc
 *.swp
+<<<<<<< HEAD
 .DS_Store
 .atom/
 .buildlog/
@@ -40,19 +44,31 @@
 #
 # See https://github.com/flutter/flutter/blob/main/docs/tool/Engine-artifacts.md.
 /bin/internal/engine.version
+=======
+.buildlog/
+.history
+
+
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
 /bin/internal/bootstrap.sh
+<<<<<<< HEAD
 /bin/internal/engine.realm
+=======
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 /bin/mingit/
 /dev/benchmarks/mega_gallery/
 /dev/bots/.recipe_deps
 /dev/bots/android_tools/
 /dev/devicelab/ABresults*.json
 /dev/docs/doc/
+<<<<<<< HEAD
 /dev/docs/api_docs.zip
+=======
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 /dev/docs/flutter.docs.zip
 /dev/docs/lib/
 /dev/docs/pubspec.yaml
@@ -68,11 +84,18 @@ analysis_benchmark.json
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
+<<<<<<< HEAD
+=======
+.flutter-plugins
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 .flutter-plugins-dependencies
 **/generated_plugin_registrant.dart
 .packages
 .pub-preload-cache/
+<<<<<<< HEAD
 .pub-cache/
+=======
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 .pub/
 build/
 flutter_*.png
@@ -86,11 +109,18 @@ unlinked_spec.ds
 **/android/captures/
 **/android/gradlew
 **/android/gradlew.bat
+<<<<<<< HEAD
 **/android/**/GeneratedPluginRegistrant.java
 **/android/key.properties
 *.jks
 local.properties
 **/.cxx/
+=======
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+*.jks
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
@@ -129,17 +159,24 @@ local.properties
 **/macos/Flutter/ephemeral
 **/xcuserdata/
 
+<<<<<<< HEAD
 # Swift package manager (for code indexing)
 **/.build/
 
 # Windows
 **/windows/flutter/ephemeral/
+=======
+# Windows
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 **/windows/flutter/generated_plugin_registrant.cc
 **/windows/flutter/generated_plugin_registrant.h
 **/windows/flutter/generated_plugins.cmake
 
 # Linux
+<<<<<<< HEAD
 **/linux/flutter/ephemeral/
+=======
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
 **/linux/flutter/generated_plugin_registrant.cc
 **/linux/flutter/generated_plugin_registrant.h
 **/linux/flutter/generated_plugins.cmake
@@ -156,6 +193,7 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+<<<<<<< HEAD
 !/dev/ci/**/Gemfile.lock
 !.vscode/settings.json
 
@@ -171,3 +209,6 @@ app.*.symbols
 .agents/rules/personal-*
 .agents/skills/personal-*
 /.agent-shell/
+=======
+!/dev/ci/**/Gemfile.lock
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb

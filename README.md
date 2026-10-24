@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
@@ -126,3 +127,7 @@ Information on how to get started can be found in our
 [platform channels]: https://docs.flutter.dev/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/main/examples/platform_channel
 [Impeller]: https://docs.flutter.dev/perf/impeller
+=======
+# loyal-app
+LOYAL app project development
+>>>>>>> 1ee8649820595f9f104d8be5c0caf1f3ef3adfdb
